@@ -1,0 +1,14 @@
+C:\Users\sm230\source\repos\fawry_task\fawry_task\bin\Debug\net8.0\EcommerceSystem.exe
+C:\Users\sm230\source\repos\fawry_task\fawry_task\bin\Debug\net8.0\EcommerceSystem.deps.json
+C:\Users\sm230\source\repos\fawry_task\fawry_task\bin\Debug\net8.0\EcommerceSystem.runtimeconfig.json
+C:\Users\sm230\source\repos\fawry_task\fawry_task\bin\Debug\net8.0\EcommerceSystem.dll
+C:\Users\sm230\source\repos\fawry_task\fawry_task\bin\Debug\net8.0\EcommerceSystem.pdb
+C:\Users\sm230\source\repos\fawry_task\fawry_task\obj\Debug\net8.0\EcommerceSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sm230\source\repos\fawry_task\fawry_task\obj\Debug\net8.0\EcommerceSystem.AssemblyInfoInputs.cache
+C:\Users\sm230\source\repos\fawry_task\fawry_task\obj\Debug\net8.0\EcommerceSystem.AssemblyInfo.cs
+C:\Users\sm230\source\repos\fawry_task\fawry_task\obj\Debug\net8.0\EcommerceSystem.csproj.CoreCompileInputs.cache
+C:\Users\sm230\source\repos\fawry_task\fawry_task\obj\Debug\net8.0\EcommerceSystem.dll
+C:\Users\sm230\source\repos\fawry_task\fawry_task\obj\Debug\net8.0\refint\EcommerceSystem.dll
+C:\Users\sm230\source\repos\fawry_task\fawry_task\obj\Debug\net8.0\EcommerceSystem.pdb
+C:\Users\sm230\source\repos\fawry_task\fawry_task\obj\Debug\net8.0\EcommerceSystem.genruntimeconfig.cache
+C:\Users\sm230\source\repos\fawry_task\fawry_task\obj\Debug\net8.0\ref\EcommerceSystem.dll

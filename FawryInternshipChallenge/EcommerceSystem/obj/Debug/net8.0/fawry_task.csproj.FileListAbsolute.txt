@@ -1,0 +1,14 @@
+C:\Users\sm230\source\repos\fawry_task\fawry_task\bin\Debug\net8.0\fawry_task.exe
+C:\Users\sm230\source\repos\fawry_task\fawry_task\bin\Debug\net8.0\fawry_task.deps.json
+C:\Users\sm230\source\repos\fawry_task\fawry_task\bin\Debug\net8.0\fawry_task.runtimeconfig.json
+C:\Users\sm230\source\repos\fawry_task\fawry_task\bin\Debug\net8.0\fawry_task.dll
+C:\Users\sm230\source\repos\fawry_task\fawry_task\bin\Debug\net8.0\fawry_task.pdb
+C:\Users\sm230\source\repos\fawry_task\fawry_task\obj\Debug\net8.0\fawry_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sm230\source\repos\fawry_task\fawry_task\obj\Debug\net8.0\fawry_task.AssemblyInfoInputs.cache
+C:\Users\sm230\source\repos\fawry_task\fawry_task\obj\Debug\net8.0\fawry_task.AssemblyInfo.cs
+C:\Users\sm230\source\repos\fawry_task\fawry_task\obj\Debug\net8.0\fawry_task.csproj.CoreCompileInputs.cache
+C:\Users\sm230\source\repos\fawry_task\fawry_task\obj\Debug\net8.0\fawry_task.dll
+C:\Users\sm230\source\repos\fawry_task\fawry_task\obj\Debug\net8.0\refint\fawry_task.dll
+C:\Users\sm230\source\repos\fawry_task\fawry_task\obj\Debug\net8.0\fawry_task.pdb
+C:\Users\sm230\source\repos\fawry_task\fawry_task\obj\Debug\net8.0\fawry_task.genruntimeconfig.cache
+C:\Users\sm230\source\repos\fawry_task\fawry_task\obj\Debug\net8.0\ref\fawry_task.dll
