@@ -4,6 +4,7 @@ A simple e-commerce console app built with C#
 
 ## Structure
 
+```text
 EcommerceSystem/
 │
 ├── Interfaces/
@@ -23,3 +24,4 @@ EcommerceSystem/
 │
 ├── Program.cs
 └── README.md
+```
