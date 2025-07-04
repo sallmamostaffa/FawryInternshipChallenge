@@ -7,19 +7,19 @@ A simple e-commerce console app built with C#
 EcommerceSystem/
 │
 ├── Interfaces/
-│   └── IShippable.cs            
+│   └── IShippable.cs
 │
 ├── Models/
-│   ├── Product.cs               
-│   ├── ExpirableProduct.cs     
-│   ├── NonExpirableShippableProduct.cs  
+│   ├── Product.cs
+│   ├── ExpirableProduct.cs
+│   ├── NonExpirableShippableProduct.cs
 │   ├── NonExpirableNonShippableProduct.cs
 │   ├── Customer.cs
-│   └── Cart.cs 
+│   └── Cart.cs
 │
 ├── Services/
 │   ├── ShippingService.cs
-│   └── CheckoutService.cs 
+│   └── CheckoutService.cs
 │
-├── Program.cs  
+├── Program.cs
 └── README.md
